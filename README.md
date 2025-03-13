@@ -4,4 +4,4 @@ This repository contains datasets of secario analysis of Japan's carbon neutral 
 
 The detail and results of this model are published in the following journal article:
 
-Sho Hata, Keisuke Nansai, Yosuke Shigetomi, Minami Kito, Kenichi Nakajima (2025)  Material efficiency and circularity goals to achieve a carbon-neutral society by 2050, Environmental Science & Technology, under review, DOI: 
+Sho Hata, Keisuke Nansai, Yosuke Shigetomi, Minami Kito, Kenichi Nakajima (2025)  Material efficiency and circularity goals to achieve a carbon-neutral society by 2050, Environmental Science & Technology, DOI: 
